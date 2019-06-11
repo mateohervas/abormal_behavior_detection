@@ -1,0 +1,7 @@
+[global]
+floatX = float32
+device = cuda
+
+[lib]
+cnmem = 1   
+
